@@ -7,4 +7,4 @@ COPY . .
 
 RUN go build
 
-CMD ["./fullcycle_desafio_1"]
+CMD ["./Full-Cycle-One"]
