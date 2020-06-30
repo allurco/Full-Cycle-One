@@ -1,3 +1,3 @@
-module github.com/allurco/fullcycle_desafio_1
+module github.com/allurco/Full-Cycle-One
 
 go 1.14
